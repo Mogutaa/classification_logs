@@ -104,7 +104,6 @@ log = "Deprecated method 'get_legacy_data' called from module X"
 print(classify_with_llm(log))  # "Deprecation Warning"
 
 🌐 Arquitetura
-graph TD
     A[Input Logs] --> B{Source}
     B -->|LegacyCRM| C[LLM Classifier]
     B -->|Others| D[RegEx Check]
