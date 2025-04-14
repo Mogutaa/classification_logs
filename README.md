@@ -1,6 +1,6 @@
 # Sistema Inteligente de Classificação de Logs
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-BERT%2C%20Llama3-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
